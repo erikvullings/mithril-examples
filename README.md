@@ -1,5 +1,7 @@
 # mithril-examples
-Useful examples and flems from Mithril's gitter channel. See also the [links page](https://github.com/erikvullings/mithril-examples/blob/master/links.md) for other interesting projects.
+Useful examples and flems from [Mithril's](https://github.com/MithrilJS/mithril.js) [gitter channel](https://gitter.im/mithriljs/mithril.js), since Gitter is notoriously difficult to search, and the Flems example have no real existence outside their URL, and are therefore not discoverable.
+
+See also the [links page](https://github.com/erikvullings/mithril-examples/blob/master/links.md) for other interesting projects.
 
 ## Routing
 
