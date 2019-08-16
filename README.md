@@ -1,5 +1,5 @@
 # mithril-examples
-Useful examples and flems from Mithril's gitter channel.
+Useful examples and flems from Mithril's gitter channel. See also the [links page](https://github.com/erikvullings/mithril-examples/blob/master/links.md) for other interesting projects.
 
 ## Routing
 
